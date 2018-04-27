@@ -1,0 +1,44 @@
+
+body{
+	background-color: dodgerblue;
+	text-align:center;
+}
+
+
+p{
+	font-family: 'Black Han Sans', sans-serif;
+	width:80%;
+	margin-left:auto;
+	margin-right:auto;
+	font-size:40px;
+	color:white;
+}
+
+
+#madbutton{
+	display:block;
+	margin-left:auto;
+	margin-right:auto;
+	color:white;
+	background-color:black;
+	width:25%;
+	text-size:75px;
+
+}
+
+#finalMadLib{
+	width:40%;
+	Margin-left:auto;
+	Margin-right:auto;
+	Background-color:#fdbcff;
+	border-style:double;
+	border-width:10px;
+	font-size:30px;
+	margin-top:50px;
+}
+
+.c{
+	color:purple;
+	font-size: 38px;
+	background-color: yellow;
+}
